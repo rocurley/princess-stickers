@@ -40,6 +40,7 @@ mood_synonyms = \
     , "happy"        : "cheerful"
     , "stressed"     : "pressured"
     , "scared"       : "afraid"
+    , "smug"         : "willful"
     }
 
 outfits = ['faith',
@@ -64,6 +65,7 @@ outfit_synonyms = \
     , "uniform"      : "military"
     , "tutu"         : "agility"
     , "tophat"       : "economics"
+    , "money"        : "economics"
     , "suit"         : "economics"
     , "tea_dress"    : "conversation"
     , "catsuit"      : "intrigue"
